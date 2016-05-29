@@ -1,0 +1,1 @@
+{	Fonts.p	}{	This file is provided solely for compatibility with programs that	}{	depend on the existing interface structure.							 }{	Its declarations are built into the THINK Pascal 4.0 compiler.		}unit Fonts;interfaceimplementationend.

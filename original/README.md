@@ -1,0 +1,1 @@
+Watchmaker Suite for Mac ClassicVersion of January 13, 2015Prepared by Alan Canon <alancanon9000@gmail.com>This version of Watchmaker Suite represents a minimally cleaned-up version of the Watchmaker applications, which should compile cleanly under the supplied ThinkPascal 4.0 compiler.

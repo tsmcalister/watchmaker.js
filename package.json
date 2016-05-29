@@ -1,0 +1,38 @@
+{
+  "name": "watchmaker",
+  "version": "1.0.0",
+  "description": "JavaScript tools to build Blind Watchmaker style apps using Richard Dawkins' algorithms",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build-examples": "webpack ./examples/js/biomorph-example.js ./examples/js/biomorph-bundle.js && webpack ./examples/js/shell-example.js ./examples/js/shell-bundle.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/penguinpress/watchmaker.js"
+  },
+  "dependencies": {
+    "lodash": "4.13.x"
+  },
+  "devDependencies": {
+    "webpack": "1.13.x",
+    "canvas": "1.3.x"
+  },
+  "keywords": [
+    "evolution",
+    "dawkins",
+    "watchmaker",
+    "snails",
+    "shells",
+    "biomorphs"
+  ],
+  "author": "Mathieu Triay",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/penguinpress/watchmaker.js/issues"
+  },
+  "homepage": "https://github.com/penguinpress/watchmaker.js"
+}

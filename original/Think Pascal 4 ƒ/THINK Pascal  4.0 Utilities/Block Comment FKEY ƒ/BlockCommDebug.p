@@ -1,0 +1,1 @@
+{ This program part allows you to debug the Block Comment FKEY under the }{ THINK Pascal Environment.  To build the Block Comment FKEY Code Resource, }{ open the BlockComm.Build.¹ project and choose Build Code Resource from }{ the Project menu. }program BlockCommDebug;	uses		BlockCommentFKEY;begin	main;		{ Call FKEY procedure }end.
