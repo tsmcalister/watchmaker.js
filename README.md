@@ -3,7 +3,7 @@
 This is the library that composes the core of the [Climbing Mount Improbable](http://www.mountimprobable.com/) website. The aim is to provide modern tools to build Blind Watchmaker-style applications using Richard Dawkins' original algorithms.
 
 The code is ported from Think Pascal 4.0, using the cleaned up source provided by Alan Canon.
-Alan has produced high fidely versions made for desktop use and ported the code to a more modern version of Pascal. You can get hold of his code on [SourceForge](https://sourceforge.net/p/watchmakersuite). 
+Alan has produced high fidelity versions made for desktop use and ported the code to a more modern version of Pascal. You can get hold of his code on [SourceForge](https://sourceforge.net/p/watchmakersuite). 
 
 The original sources (and compiler) used are included in this repository for comparison. A quick way to get into the code is to look for the `Biomorph` file (for both Monochrome and Snails). In there you'll find the `Develop` routine which generates all the lines, `DrawPic/DrawLine` which uses QuickDraw to draw the lines on screen and `Reproduce` which generates a possibly mutated offspring.
 
